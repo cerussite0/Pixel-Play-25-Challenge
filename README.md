@@ -1,5 +1,5 @@
 # Pixel-Play-25-Challenge
-Pixel Play'25 Challenge
+Here I have approached this problem by leveraging the semantic relationships between the embedding vectors of the animals of seen and unseen classes and linking them to visual features. 
 
 Model-1(Model-1 (2).ipynb) and Model-2(Model-2.ipynb) are the same ones as discussed in the report.
 
